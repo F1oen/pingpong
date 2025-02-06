@@ -37,7 +37,7 @@ Score points by making your opponent miss the ball.
 🔹 Convert into a network multiplayer game using socket 🌐
 
 
-🖥 Installation
+🖥 **Installation**
 
 Ensure you have Python and Pygame installed:
 
