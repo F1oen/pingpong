@@ -1,25 +1,25 @@
 
-🎾 Ping Pong Game (Python & Pygame)
+🎾**Ping Pong Game (Python & Pygame)**
 
 A simple Ping Pong game built using Python and Pygame. Currently, it's a local multiplayer game, but future updates will include network play!
 
-🚀 How to Play
+🚀 **How to Play**
 
-1️⃣ Run the script:
+1️⃣ **Run the script:**
 
 python ping_pong.py
 
-2️⃣ Controls:
+2️⃣ **Controls:**
 	
 Player 1: W (Up), S (Down)
 Player 2: ↑ (Up Arrow), ↓ (Down Arrow)
 
-3️⃣ Objective:
+3️⃣** **Objective:****
 
 Hit the ball with your paddle.
 Score points by making your opponent miss the ball.
 
-🛠 Features
+🛠 **Features**
 
 ✅ Two-player local gameplay
 
@@ -28,7 +28,7 @@ Score points by making your opponent miss the ball.
 ✅ Score tracking
 
 
-🔥 Next Steps & Improvements
+🔥 **Next Steps & Improvements**
 
 🔹 Add sound effects using pygame.mixer 🎵
 
