@@ -6,15 +6,15 @@ A simple Ping Pong game built using Python and Pygame. Currently, it's a local m
 🚀 **How to Play**
 
 1️⃣ **Run the script:**
-
-python ping_pong.py
-
+```bash
+ python ping_pong.py
+```
 2️⃣ **Controls:**
 	
 Player 1: W (Up), S (Down)
 Player 2: ↑ (Up Arrow), ↓ (Down Arrow)
 
-3️⃣** **Objective:****
+3️⃣ **Objective:**
 
 Hit the ball with your paddle.
 Score points by making your opponent miss the ball.
@@ -41,6 +41,6 @@ Score points by making your opponent miss the ball.
 
 Ensure you have Python and Pygame installed:
 
-
+```bash
 pip install p
-
+```
