@@ -4,7 +4,7 @@ import pygame
 import sys
 
 # Network settings
-SERVER_IP = '192.168.194.130'
+SERVER_IP = '192.168.194.133'
 SERVER_PORT = 5555
 
 # Initialize pygame
