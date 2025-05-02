@@ -1,7 +1,7 @@
 import socket
 
 # Server settings
-SERVER_IP = '192.168.194.130'
+SERVER_IP = '0.0.0.0'
 SERVER_PORT = 5555
 BUFFER_SIZE = 1024
 
